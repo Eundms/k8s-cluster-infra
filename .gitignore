@@ -1,0 +1,7 @@
+.*
+.env
+.ssh
+*.backup
+tfplan
+$(TFVARS_FILE)
+!.gitignore
